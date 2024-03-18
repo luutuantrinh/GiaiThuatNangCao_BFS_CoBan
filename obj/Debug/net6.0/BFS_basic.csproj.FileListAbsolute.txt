@@ -1,0 +1,14 @@
+C:\Users\Trinh\source\repos\BFS_basic\bin\Debug\net6.0\BFS_basic.exe
+C:\Users\Trinh\source\repos\BFS_basic\bin\Debug\net6.0\BFS_basic.deps.json
+C:\Users\Trinh\source\repos\BFS_basic\bin\Debug\net6.0\BFS_basic.runtimeconfig.json
+C:\Users\Trinh\source\repos\BFS_basic\bin\Debug\net6.0\BFS_basic.dll
+C:\Users\Trinh\source\repos\BFS_basic\bin\Debug\net6.0\BFS_basic.pdb
+C:\Users\Trinh\source\repos\BFS_basic\obj\Debug\net6.0\BFS_basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trinh\source\repos\BFS_basic\obj\Debug\net6.0\BFS_basic.AssemblyInfoInputs.cache
+C:\Users\Trinh\source\repos\BFS_basic\obj\Debug\net6.0\BFS_basic.AssemblyInfo.cs
+C:\Users\Trinh\source\repos\BFS_basic\obj\Debug\net6.0\BFS_basic.csproj.CoreCompileInputs.cache
+C:\Users\Trinh\source\repos\BFS_basic\obj\Debug\net6.0\BFS_basic.dll
+C:\Users\Trinh\source\repos\BFS_basic\obj\Debug\net6.0\refint\BFS_basic.dll
+C:\Users\Trinh\source\repos\BFS_basic\obj\Debug\net6.0\BFS_basic.pdb
+C:\Users\Trinh\source\repos\BFS_basic\obj\Debug\net6.0\BFS_basic.genruntimeconfig.cache
+C:\Users\Trinh\source\repos\BFS_basic\obj\Debug\net6.0\ref\BFS_basic.dll
